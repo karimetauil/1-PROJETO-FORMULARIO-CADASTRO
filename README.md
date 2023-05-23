@@ -14,7 +14,8 @@
   <br>
 
   <div align="center">
-    <img src="   " width="500px">
+    <img src="https://github.com/karimetauil/1-PROJETO-FORMULARIO-CADASTRO/blob/main/captura%20de%20tela/Projeto%20Formul%C3%A1rio.gif?raw=true" 
+         width="500px">
   </div>
 
   <br>
@@ -29,25 +30,17 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ## 💻 Projeto
 
-O Projeto Formulário Cadastro consiste em um desenvolvimento de um formulário para que conste todas as informações pessoais de um individuo.  
+O Projeto Formulário Cadastro consiste no desenvolvimento de um formulário para que conste todas as informações pessoais de um individuo.  
 
   <br>
  
 ## 🚩Funcionalidades
 
 - 
-- Ao passar o mouse sobre os botões 'Entrar', 'Português' e 'Vamos lá', o cursor transforma-se em uma mãozinha e também ocorre uma mudança de cor;
-- Através do input há possibilidade de introdução de e-mail;
-- No menu 'Perguntas Frequentes', ao clicar é possivel abrir e fechar a aba, ocorrendo o efeito de rotação da imagem (+), e deste modo constando o significado da palavra Netflix; 
-- Ao clicar nos links do Rodapé, há um direcionamento para uma nova página.
+-
+- 
 
  <br>
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/iy6s4aZebD1RwoyiOQdYAo/Netflix-DIG-(Community)?type=design&node-id=0-1&t=uiylD7RyKtWwInl3-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-  <br>
 
 ## :memo: Licença
 
