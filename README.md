@@ -15,7 +15,7 @@
 
   <div align="center">
     <img src="https://github.com/karimetauil/1-PROJETO-FORMULARIO-CADASTRO/blob/main/captura%20de%20tela/Projeto%20Formul%C3%A1rio.gif?raw=true" 
-         width="500px">
+         width="600px">
   </div>
 
   <br>
